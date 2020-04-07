@@ -1,0 +1,23 @@
+{
+  "name": "api-mocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonhudson/api-mocking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonhudson/api-mocking/issues"
+  },
+  "homepage": "https://github.com/simonhudson/api-mocking#readme",
+  "dependencies": {
+    "wiremock": "^2.26.3"
+  }
+}
